@@ -92,7 +92,7 @@ study-buddy-bot/
 ├── .env.example             # Environment variable template
 ├── index.html               # HTML entry point
 ├── package.json
-├── tsconfig.json
+├── tsconfig.json 
 └── vite.config.ts
 ```
 
