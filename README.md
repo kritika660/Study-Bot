@@ -89,7 +89,7 @@ study-buddy-bot/
 │   ├── App.css                  # App-level styles
 │   ├── index.css                # Global styles & Tailwind config
 │   └── main.tsx                 # Application entry point
-├── .env.example             # Environment variable template
+├── .env                         # Environment variable template
 ├── index.html               # HTML entry point
 ├── package.json
 ├── tsconfig.json 
