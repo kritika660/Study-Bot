@@ -1,6 +1,6 @@
 # 🎓 Study Buddy Bot
 
-An AI-powered study assistant that helps students master complex topics through intuitive explanations, analogies, and Socratic questioning. Built with React, TypeScript, and Google's Gemini AI.
+An AI-powered study assistant that helps students master complex topics through intuitive explanations, analogies, and Socratic questioning. Built with React, TypeScript, and Google's Gemini AI. 
 
 ![Study Buddy Bot](https://img.shields.io/badge/AI-Study%20Buddy-00C896?style=for-the-badge&logo=google&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
