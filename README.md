@@ -12,7 +12,7 @@ An AI-powered study assistant that helps students master complex topics through 
 ## ✨ Features
 
 - 🤖 **AI-Powered Tutoring** — Uses Google Gemini 2.5 Flash for fast, intelligent responses
-- 💬 **Real-Time Streaming** — Responses stream in word-by-word for a natural chat experience
+- 💬 **Real-Time Streaming** — Responses stream in word-by-word for a natural chat experience 
 - 🌗 **Dark / Light Mode** — Toggle between themes with a smooth transition
 - 📝 **Markdown Support** — AI responses render with rich formatting (bold, lists, code blocks)
 - ⚡ **Smooth Animations** — Framer Motion-powered chat bubbles and UI transitions
