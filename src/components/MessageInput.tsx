@@ -17,8 +17,8 @@ export const MessageInput: React.FC<MessageInputProps> = ({ onSendMessage, isLoa
     if (textarea) {
       textarea.style.height = 'auto';
       textarea.style.height = `${Math.min(textarea.scrollHeight, 160)}px`;
-    }
-  };
+    } 
+  }; 
 
   useEffect(() => {
     adjustHeight();
@@ -32,7 +32,7 @@ export const MessageInput: React.FC<MessageInputProps> = ({ onSendMessage, isLoa
       if (textareaRef.current) {
         textareaRef.current.style.height = 'auto';
       }
-    }
+    } 
   };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
@@ -76,3 +76,4 @@ export const MessageInput: React.FC<MessageInputProps> = ({ onSendMessage, isLoa
     </div>
   );
 };
+
