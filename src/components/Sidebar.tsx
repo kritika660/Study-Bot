@@ -53,7 +53,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onNewSession }) => {
       <div className="p-4 border-t border-light-border dark:border-dark-border flex items-center justify-between">
         <div className="text-sm font-medium text-slate-600 dark:text-slate-400">Settings</div>
         <ThemeToggle />
-      </div>
+      </div> 
     </div>
   );
 };
