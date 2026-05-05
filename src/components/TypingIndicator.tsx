@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-
+ 
 export const TypingIndicator: React.FC = () => {
   return (
     <div className="w-full flex mb-6 justify-start relative">
