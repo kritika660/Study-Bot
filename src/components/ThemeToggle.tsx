@@ -5,7 +5,7 @@ import { useTheme } from '../context/ThemeContext';
 export const ThemeToggle: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
 
-  return (
+  return ( 
     <button
       onClick={toggleTheme}
       className="p-2 rounded-full transition-colors duration-200 hover:bg-slate-200 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-primary-500"
