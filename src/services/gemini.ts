@@ -8,7 +8,7 @@ Always format your responses elegantly using Markdown, including bold text, bull
 If a student asks a direct question, first provide a concise intuitive answer, then break down the fundamentals using an analogy, and finally ask a guiding question to test their understanding.`;
 
 export type MessageRole = 'user' | 'assistant';
-
+ 
 export interface ChatMessage {
   id: string;
   role: MessageRole;
