@@ -7,7 +7,7 @@ An AI-powered study assistant that helps students master complex topics through 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
 
----
+--- 
 
 ## ✨ Features
 
