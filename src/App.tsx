@@ -31,7 +31,7 @@ function App() {
       id: Date.now().toString(),
       role: 'user',
       content: text,
-      timestamp: Date.now()
+      timestamp: Date.now() 
     };
 
     setMessages(prev => [...prev, newUserMessage]);
