@@ -30,7 +30,7 @@ function App() {
     const newUserMessage: ChatMessage = {
       id: Date.now().toString(),
       role: 'user',
-      content: text,
+      content: text, 
       timestamp: Date.now() 
     };
 
