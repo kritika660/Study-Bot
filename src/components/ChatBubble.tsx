@@ -10,7 +10,7 @@ interface ChatBubbleProps {
 }
 
 export const ChatBubble: React.FC<ChatBubbleProps> = ({ role, content }) => {
-  const isUser = role === 'user';
+  const isUser = role === 'user'; 
 
   return (
     <motion.div
