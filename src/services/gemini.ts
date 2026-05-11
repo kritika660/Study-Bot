@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY || '');
+const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY || ''); 
 
 export const SYSTEM_PROMPT = `You are an elite academic tutor and an AI Study Buddy. 
 Your goal is to explain complex topics using analogies, clear steps, and Socratic questioning.
